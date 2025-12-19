@@ -1,16 +1,17 @@
-## Hi there 👋
+**Hey there, I'm Akshi Chikara**
 
-<!--
-**Akshi1011/Akshi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Passionate DevOps Engineer from India
 
-Here are some ideas to get you started:
+I enjoy building scalable, secure, and automated cloud infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+**Cloud** : Azure
+**IaC** : Terraform
+**CI/CD** : GitHub Actions
+**Containers** : Docker
+**OS & Tools** : Linux, Git
+
+## Currently learning
+- Advance Terraform module
+  
